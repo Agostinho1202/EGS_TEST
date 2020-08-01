@@ -1,0 +1,13 @@
+C:\Users\Weslley Agostinho\source\repos\EGS_Test\EGS_Test\bin\Debug\netcoreapp3.1\EGS_Test.exe
+C:\Users\Weslley Agostinho\source\repos\EGS_Test\EGS_Test\bin\Debug\netcoreapp3.1\EGS_Test.deps.json
+C:\Users\Weslley Agostinho\source\repos\EGS_Test\EGS_Test\bin\Debug\netcoreapp3.1\EGS_Test.runtimeconfig.json
+C:\Users\Weslley Agostinho\source\repos\EGS_Test\EGS_Test\bin\Debug\netcoreapp3.1\EGS_Test.runtimeconfig.dev.json
+C:\Users\Weslley Agostinho\source\repos\EGS_Test\EGS_Test\bin\Debug\netcoreapp3.1\EGS_Test.dll
+C:\Users\Weslley Agostinho\source\repos\EGS_Test\EGS_Test\bin\Debug\netcoreapp3.1\EGS_Test.pdb
+C:\Users\Weslley Agostinho\source\repos\EGS_Test\EGS_Test\obj\Debug\netcoreapp3.1\EGS_Test.csprojAssemblyReference.cache
+C:\Users\Weslley Agostinho\source\repos\EGS_Test\EGS_Test\obj\Debug\netcoreapp3.1\EGS_Test.AssemblyInfoInputs.cache
+C:\Users\Weslley Agostinho\source\repos\EGS_Test\EGS_Test\obj\Debug\netcoreapp3.1\EGS_Test.AssemblyInfo.cs
+C:\Users\Weslley Agostinho\source\repos\EGS_Test\EGS_Test\obj\Debug\netcoreapp3.1\EGS_Test.csproj.CoreCompileInputs.cache
+C:\Users\Weslley Agostinho\source\repos\EGS_Test\EGS_Test\obj\Debug\netcoreapp3.1\EGS_Test.dll
+C:\Users\Weslley Agostinho\source\repos\EGS_Test\EGS_Test\obj\Debug\netcoreapp3.1\EGS_Test.pdb
+C:\Users\Weslley Agostinho\source\repos\EGS_Test\EGS_Test\obj\Debug\netcoreapp3.1\EGS_Test.genruntimeconfig.cache

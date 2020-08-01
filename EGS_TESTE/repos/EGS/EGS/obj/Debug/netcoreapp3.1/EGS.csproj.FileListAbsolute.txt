@@ -1,0 +1,13 @@
+C:\Users\Weslley Agostinho\source\repos\EGS\EGS\bin\Debug\netcoreapp3.1\EGS.exe
+C:\Users\Weslley Agostinho\source\repos\EGS\EGS\bin\Debug\netcoreapp3.1\EGS.deps.json
+C:\Users\Weslley Agostinho\source\repos\EGS\EGS\bin\Debug\netcoreapp3.1\EGS.runtimeconfig.json
+C:\Users\Weslley Agostinho\source\repos\EGS\EGS\bin\Debug\netcoreapp3.1\EGS.runtimeconfig.dev.json
+C:\Users\Weslley Agostinho\source\repos\EGS\EGS\bin\Debug\netcoreapp3.1\EGS.dll
+C:\Users\Weslley Agostinho\source\repos\EGS\EGS\bin\Debug\netcoreapp3.1\EGS.pdb
+C:\Users\Weslley Agostinho\source\repos\EGS\EGS\obj\Debug\netcoreapp3.1\EGS.AssemblyInfoInputs.cache
+C:\Users\Weslley Agostinho\source\repos\EGS\EGS\obj\Debug\netcoreapp3.1\EGS.AssemblyInfo.cs
+C:\Users\Weslley Agostinho\source\repos\EGS\EGS\obj\Debug\netcoreapp3.1\EGS.csproj.CoreCompileInputs.cache
+C:\Users\Weslley Agostinho\source\repos\EGS\EGS\obj\Debug\netcoreapp3.1\EGS.dll
+C:\Users\Weslley Agostinho\source\repos\EGS\EGS\obj\Debug\netcoreapp3.1\EGS.pdb
+C:\Users\Weslley Agostinho\source\repos\EGS\EGS\obj\Debug\netcoreapp3.1\EGS.genruntimeconfig.cache
+C:\Users\Weslley Agostinho\source\repos\EGS\EGS\obj\Debug\netcoreapp3.1\EGS.csprojAssemblyReference.cache
